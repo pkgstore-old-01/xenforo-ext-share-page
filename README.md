@@ -7,7 +7,7 @@
 | License      | GPL-3.0                                            |
 | Language     | Russian                                            |
 | Requirements | XenForo 2.1                                        |
-| Authors      | [Yu Dunaev](mailto:dun43v@gmail.com)               |
+| Authors      | [Yu Dunaev](mailto:hello@tails.im)               |
 
 Расширение функции **Поделиться страницей** для [**XenForo**](https://xenforo.com).
 
