@@ -3,7 +3,7 @@
   "type": "xenforo-extension",
   "description": "",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://github.com/marketplace-xenforo",
+  "homepage": "https://github.com/pkgstore",
   "keywords": [
     "xenforo",
     "share"
@@ -23,8 +23,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/marketplace-xenforo/xenforo-ext-share-page/issues",
-    "source": "https://github.com/marketplace-xenforo/xenforo-ext-share-page"
+    "issues": "https://github.com/pkgstore/xenforo-ext-share-page/issues",
+    "source": "https://github.com/pkgstore/xenforo-ext-share-page"
   },
   "require": {
     "composer/installers": "~1.0"
